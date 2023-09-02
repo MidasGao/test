@@ -43,6 +43,32 @@
    1. Lover
    2. The Archer
 
+#### 混合列表
+
+### 插入代码片段
+
+```c
+	#include <stdio.h>
+	int main(){
+		printf("test\n");
+		return 0;
+	}
+```
+
+```c++
+	#include <iostream>
+	using namespace std;
+```
+
+```python
+	import os;
+```
+
+```bash
+	ifconfig #查看网络设备
+	upstate -apn
+	nc 192.168.2.112 8080
+```
 
 
 
