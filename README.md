@@ -22,3 +22,27 @@
 
 ~那我去鼠呗~
 
+### 列表
+
+#### 无序列表
+
+* 1989
+  * Out of the Woods
+  * You Are in Love
+* Midnights
+  * Bejeweled
+  * Mastermind
+
+
+#### 有序列表
+
+1. Red
+   1. Red
+   2. 22
+2. Lover
+   1. Lover
+   2. The Archer
+
+
+
+
