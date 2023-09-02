@@ -78,6 +78,9 @@
 ### 超链接
 [慕课](https://www.icourse163.org "点击进入")
 
+### 插入图片
+![截图](C://Users//MIDAS//Desktop//taytay.jpg "桌面截图")
+
 
 
 
